@@ -46,12 +46,5 @@ A fictitious hotel chain is facing increasing competition and requires actionabl
   - Occupancy and performance metrics
   - Strategic recommendations based on data insights
 
----
 
-## Prerequisites
-- Familiarity with basic data concepts (no prior experience with Power BI required).
-- A commitment to learning and executing real-time data analytics workflows.
 
----
-
-This project offers valuable learning opportunities for individuals aiming to enter the data analytics field, especially within the hospitality industry. **Feel free to explore the repository and get hands-on with the dataset to recreate the dashboard!**
